@@ -3,10 +3,10 @@ I'm excited to share an Excel dashboard I created for Vrinda Store's annual sale
 
 ##Explore the dashboard to discover:
 
-✅ Comparison of sales and orders in a single chart
-✅ Highest sales and orders by month
-✅ Demographic insights: who's buying more, men or women?
-✅ Order status analysis
-✅ Top 10 sales-contributing states
-✅ Age and gender analysis based on orders
-✅ Top sales channels and categories
+-Comparison of sales and orders in a single chart
+- Highest sales and orders by month
+- Demographic insights: who's buying more, men or women?
+- Order status analysis
+- Top 10 sales-contributing states
+- Age and gender analysis based on orders
+- Top sales channels and categories
