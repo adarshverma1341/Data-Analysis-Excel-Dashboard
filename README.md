@@ -2,7 +2,7 @@
 I'm excited to share an Excel dashboard I created for Vrinda Store's annual sales report for 2022. This interactive dashboard provides actionable insights to help Vrinda understand their customers and boost sales in 2023.
 
 ### View Dashboard
-<a herf=https://github.com/adarshverma1341/Data-Analysis-Excel-Dashboard/blob/main/Vrinda%20Store%20Dashboard.xlsx>Virinda_Store_Dashboard</a>
+<a href=https://lnkd.in/exBrj8Vk>Virinda_Store_Dashboard</a>
 
 ## Explore the dashboard to discover
 
